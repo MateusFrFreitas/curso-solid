@@ -1,0 +1,15 @@
+{
+	"name": "mateus/app_crm",
+	"authors": [
+		{
+			"name": "Mateus Franchini de Freitas",
+			"email": "contato.mateusfr@outlook.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"src\\": "src/"
+		}
+	}
+}

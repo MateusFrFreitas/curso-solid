@@ -1,0 +1,15 @@
+{
+	"name": "mateus/app_etl",
+	"authors": [
+		{
+			"name": "Mateus",
+			"email": "contato.mateusfr@outlook.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"src\\": "src/"
+		}
+	}
+}
